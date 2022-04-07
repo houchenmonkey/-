@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test2
+=======
+test1
+>>>>>>> master
